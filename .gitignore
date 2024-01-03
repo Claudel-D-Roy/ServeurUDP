@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/ServeurUDP/ServeurUDP.vcxproj.user
+/.vs/ServeurUDP
+/ServeurUDP/x64/Debug
+/x64/Debug
