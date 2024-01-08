@@ -1,6 +1,6 @@
 # UDP Server
 
-Project completed during the fourth session of my computer science program.
+Project completed during the fourth session of my software development program.
 
 ## Instructions
 
